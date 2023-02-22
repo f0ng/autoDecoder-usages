@@ -1,8 +1,12 @@
 ## autodecoder用法及案例
 
-想维护成一个有很多用例、接口的项目，希望各位师傅有加解密之类的需求可以一起沟通，完善本项目。
+	想维护成一个有很多用例、接口的项目，希望各位师傅有加解密之类的需求可以一起沟通，完善本项目。
 
-有些案例可能是旧版本下的autoDecoder举例，但是原理都是一样的，可以通过调试来判断是否达到了满意的效果
+	有些案例可能是旧版本下的autoDecoder举例，但是原理都是一样的，可以通过调试来判断是否达到了满意的效果
+
+交流群
+
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/48286013/220634169-ddefd4b2-d967-4a85-8b28-b626ba366742.png">
 
 - ## autoDecoder的调试办法
   - #### [接口加解密调试](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E8%B0%83%E8%AF%95%E5%8A%9E%E6%B3%95/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E8%B0%83%E8%AF%95/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E8%B0%83%E8%AF%95.md)——举例说明
