@@ -26,7 +26,7 @@
 	- #### [POST自动转GET](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/POST%E8%BD%ACGET/POST%E8%BD%ACGET.md)——使用python的flask框架，解决POST自动转GET问题 
 	- #### [sqlmap的osshell遇到中文字符](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/sqlmap%E7%9A%84osshell%E9%81%87%E5%88%B0%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E6%83%85%E5%86%B5/sqlmap%E7%9A%84osshell%E9%81%87%E5%88%B0%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E6%83%85%E5%86%B5.md)——使用python的flask框架，解决osshell中的出现中文目录无法正常执行命令的通病
 - ## 脚本例子
-  - #### [aes_cbc_zeropadding.py]()
+  - #### [aes_cbc_zeropadding.py](https://github.com/f0ng/autoDecoder-usages/blob/main/%E5%8A%A0%E8%A7%A3%E5%AF%86%E4%BB%A3%E7%A0%81%E4%BE%8B%E5%AD%90/aes_cbc_zeropadding.py)——aes/cbc/零填充加密
 
 
 
