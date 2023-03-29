@@ -27,6 +27,8 @@
 	- Node
 		- #### [SM4加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/sm4%E5%8A%A0%E5%AF%86/sm4%E5%8A%A0%E5%AF%86.md)——使用nodejs的http接口，解决SM4加解密
 		- #### [AES加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/AES%E5%8A%A0%E5%AF%86/AES%E5%8A%A0%E5%AF%86.md)——使用nodejs的http接口，解决AES/ECB加解密_另含有特殊关键字加解密处理方式
+	- Ruby
+		- #### [SM4加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Ruby/SM4_Base64/sm4_base64.md)使用Ruby的http接口，解决SM4加解密，附有案例，可以作为初次使用者参考（@[nullptrKey](https://www.github.com/nullptrKey) 师傅提供）
 - ## autoDecoder的奇淫技巧
 	- #### [绕过流量waf](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E7%BB%95%E8%BF%87%E6%B5%81%E9%87%8Fwaf/%E7%BB%95%E8%BF%87%E6%B5%81%E9%87%8Fwaf.md)——使用python的flask框架，绕过waf对webshell的流量通信的阻断
 	- #### [接口测试中替换参数](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E6%9B%BF%E6%8D%A2%E5%8F%82%E6%95%B0/%E6%9B%BF%E6%8D%A2%E5%8F%82%E6%95%B0.md)——使用python的flask框架，解决自动测试接口中的批量参数替换问题
@@ -39,3 +41,4 @@
 ## 写在最后
 感谢xm17师傅提供脚本案例
 
+感谢@[nullptrKey](https://www.github.com/nullptrKey) 师傅提供Ruby下SM4加解密案例
