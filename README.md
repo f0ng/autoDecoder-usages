@@ -24,6 +24,7 @@
 		- #### [JSON嵌套加密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Python/JSON%E5%B5%8C%E5%A5%97%E5%8A%A0%E5%AF%86/JSON%E5%B5%8C%E5%A5%97%E5%8A%A0%E5%AF%86.md)——使用python的flask框架，解决json数据中嵌套一层base64编码的json加密数据的AES/ECB加解密
 		- #### [通过Python执行Javascript加密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Python/%E9%80%9A%E8%BF%87py%E6%89%A7%E8%A1%8Cjs%E5%8A%A0%E5%AF%86/%E9%80%9A%E8%BF%87py%E6%89%A7%E8%A1%8Cjs%E5%8A%A0%E5%AF%86.md)——使用python的flask框架，解决一些Javascript的加密问题
 		- #### [3DES加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Python/3DES%E5%8A%A0%E5%AF%86/3DES%E5%8A%A0%E5%AF%86.md)——使用python的flask框架，解决3DES/CBC加解密
+		- #### [Chrome调用cdp进行加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Python/chrome%E4%B8%ADcdp%E8%B0%83%E7%94%A8%E5%8A%A0%E8%A7%A3%E5%AF%86/chrome%E4%B8%ADcdp%E8%B0%83%E7%94%A8%E5%8A%A0%E8%A7%A3%E5%AF%86.md)——使用python的flask框架，调用chrome的cdp进行加解密(@[1354668362](https://github.com/1354668362) 师傅提供)
 	- Node
 		- #### [SM4加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/sm4%E5%8A%A0%E5%AF%86/sm4%E5%8A%A0%E5%AF%86.md)——使用nodejs的http接口，解决SM4加解密
 		- #### [AES加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/AES%E5%8A%A0%E5%AF%86/AES%E5%8A%A0%E5%AF%86.md)——使用nodejs的http接口，解决AES/ECB加解密_另含有特殊关键字加解密处理方式
@@ -42,3 +43,6 @@
 感谢xm17师傅提供脚本案例
 
 感谢@[nullptrKey](https://www.github.com/nullptrKey) 师傅提供Ruby下SM4加解密案例
+
+感谢@[1354668362](https://github.com/1354668362) 师傅提供chrome调用cdp加解密案例
+
