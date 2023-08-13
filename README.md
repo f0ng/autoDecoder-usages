@@ -29,7 +29,7 @@
 	- Node
 		- #### [SM4加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/sm4%E5%8A%A0%E5%AF%86/sm4%E5%8A%A0%E5%AF%86.md)——使用nodejs的http接口，解决SM4加解密
 		- #### [AES加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/AES%E5%8A%A0%E5%AF%86/AES%E5%8A%A0%E5%AF%86.md)——使用nodejs的http接口，解决AES/ECB加解密_另含有特殊关键字加解密处理方式
-		- #### [Chrome调用cdp进行加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/chrome%20cdp%E5%8A%A0%E8%A7%A3%E5%AF%86/chrome%20cdp%20%E5%8A%A0%E8%A7%A3%E5%AF%86.md)——使用nodejs，调用chrome的cdp进行加解密(@[xibbaz](https://github.com/xibbaz) 师傅提供)
+		- #### [Chrome调用cdp进行加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Node/chrome%20cdp%E5%8A%A0%E8%A7%A3%E5%AF%86/chrome%20cdp%20%E5%8A%A0%E8%A7%A3%E5%AF%86.md)——使用nodejs，调用chrome的cdp进行加解密(@[xibbaz](https://github.com/c0r1) 师傅提供)
 	- Ruby
 		- #### [SM4加解密](https://github.com/f0ng/autoDecoder-usages/blob/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Ruby/SM4_Base64/sm4_base64.md)使用Ruby的http接口，解决SM4加解密，附有案例，可以作为初次使用者参考（@[nullptrKey](https://www.github.com/nullptrKey) 师傅提供）
 - ## autoDecoder的奇淫技巧
@@ -50,4 +50,4 @@
 
 感谢@[NaTsUk0](https://github.com/NaTsUk0) 师傅提供smartbi请求包自动加解密案例
 
-感谢(@[xibbaz](https://github.com/xibbaz) 师傅提供调用chrome的cdp进行加解密
+感谢(@[c0r1](https://github.com/c0r1) 师傅提供调用chrome的cdp进行加解密
