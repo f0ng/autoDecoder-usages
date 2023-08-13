@@ -1,5 +1,7 @@
-[TOC]
-
+---
+created: 2023-08-13T14:53:51+08:00
+updated: 2023-08-13T14:53:51+08:00
+---
 # 使用burp插件autoDecoder实现对smartbi请求包自动加解密
 
 # 安装autoDecoder插件
@@ -26,4 +28,4 @@ smartbi特征比较明显
 
 # 然后就实现自动加解密了
 
-脚本见
+脚本见[这里](https://github.com/f0ng/autoDecoder-usages/tree/main/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E7%94%A8%E6%B3%95/Python/smartbi%E8%AF%B7%E6%B1%82%E5%8C%85%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%A7%A3%E5%AF%86/smartbi)
