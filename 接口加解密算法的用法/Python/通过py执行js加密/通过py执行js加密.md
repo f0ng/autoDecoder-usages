@@ -47,7 +47,8 @@ ctx = execjs.compile("""
 def encrypt():  
     total = ""  
     param = request.form.get('dataBody')  # 获取  post 参数  
-    # print(param)    dict = parse_qs(param)  
+    # print(param)
+    dict = parse_qs(param)  
     en_pwd = ctx.call("encode", dict["password"][0])  
     # print(en_pwd)  
     dict["password"][0] = en_pwd  
