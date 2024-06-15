@@ -41,6 +41,7 @@
 	- #### [sql注入绕过](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/sql%E6%B3%A8%E5%85%A5%E7%BB%95%E8%BF%87%E4%B9%8Bsqlmap%E7%9A%84%E6%95%B0%E6%8D%AE%E5%8C%85%E6%8D%A2%E8%A1%8C%E9%97%AE%E9%A2%98/sql%E6%B3%A8%E5%85%A5%E7%BB%95%E8%BF%87%E4%B9%8Bsqlmap%E7%9A%84%E6%95%B0%E6%8D%AE%E5%8C%85%E6%8D%A2%E8%A1%8C%E9%97%AE%E9%A2%98.md)——使用python的flask框架，解决sqlmap的数据包换行问题
 	- #### [POST自动转GET](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/POST%E8%BD%ACGET/POST%E8%BD%ACGET.md)——使用python的flask框架，解决POST自动转GET问题 
 	- #### [sqlmap的osshell遇到中文字符](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/sqlmap%E7%9A%84osshell%E9%81%87%E5%88%B0%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E6%83%85%E5%86%B5/sqlmap%E7%9A%84osshell%E9%81%87%E5%88%B0%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E6%83%85%E5%86%B5.md)——使用python的flask框架，解决osshell中的出现中文目录无法正常执行命令的通病
+	- #### [加密数据包无法使用被动扫描器来进行扫描的解决方案](https://github.com/f0ng/autoDecoder-usages/blob/main/autoDecoder%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/%E5%8A%A0%E5%AF%86%E6%95%B0%E6%8D%AE%E5%8C%85%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%A2%AB%E5%8A%A8%E6%89%AB%E6%8F%8F%E5%99%A8%E6%9D%A5%E8%BF%9B%E8%A1%8C%E6%89%AB%E6%8F%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%8A%A0%E5%AF%86%E6%95%B0%E6%8D%AE%E5%8C%85%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%A2%AB%E5%8A%A8%E6%89%AB%E6%8F%8F%E5%99%A8%E6%9D%A5%E8%BF%9B%E8%A1%8C%E6%89%AB%E6%8F%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)——使用两个burp-autodecoder划分成客户端、服务端，与扫描工具进行结合
 - ## 脚本例子
   - #### [aes_cbc_zeropadding.py](https://github.com/f0ng/autoDecoder-usages/blob/main/%E5%8A%A0%E8%A7%A3%E5%AF%86%E4%BB%A3%E7%A0%81%E4%BE%8B%E5%AD%90/aes_cbc_zeropadding.py)——aes/cbc/零填充加密
 
@@ -58,3 +59,5 @@
 感谢@[nullptrKey](https://www.github.com/nullptrKey) 师傅提供Ruby接口请求头校验案例
 
 感谢@[木易]() 师傅提供响应包为明文，请求包为密文，请求包需要解密案例
+
+感谢@[3]() 师傅提供加密数据包无法使用被动扫描器来进行扫描的解决方案
